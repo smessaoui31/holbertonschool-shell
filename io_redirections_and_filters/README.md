@@ -17,3 +17,5 @@ NEW PROJET IO REDICTIONS
 	TASK 13 : SORT THE UNI FILE 
 	TASK 14 : DISPLAY SPECIFIC LINE WITH PATTERN
 	TASK 15 : DISPLAY LINE WITH SPECIFIC PATTERN
+	TASK 16 : Display lines containing the pattern “root” and 3 lines after them in the file
+	TASK 17 : Display all the lines in a file  that do not contain a specific pattern 
